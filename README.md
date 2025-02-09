@@ -19,6 +19,7 @@ Technologies and Librairies Used:
 - Textures: They are applied to 3D models to enhance visuals details.
 - Numpy: Numpy is used to handle mathematical operations related to matrix transformations.
 
+
 Authors: BALLAND Alexis / FERRY Alexandre
 
 
