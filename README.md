@@ -1,5 +1,3 @@
-Authors: BALLAND Alexis / FERRY Alexandre
-
 Description: 
 
 This project is a 3D minimalistic game inspired by the well-known game Crossy Road. The goal is simple: the player controls a stegosaurus that must cross the road while avoiding cars to reach the next level. However, as the levels progress, the difficulty increases, with cars moving faster. If a car collides with the stegosaurus, the game restarts. Additionally, to make the game more challenging, the player must cross the road before the timer reaches 0.
@@ -20,5 +18,8 @@ Technologies and Librairies Used:
 - OBJ Loader: It reads and loads 3D models in .obj files.
 - Textures: They are applied to 3D models to enhance visuals details.
 - Numpy: Numpy is used to handle mathematical operations related to matrix transformations.
+
+Authors: BALLAND Alexis / FERRY Alexandre
+
 
  
