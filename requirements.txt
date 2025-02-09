@@ -1,0 +1,5 @@
+pyopengl
+pyrr
+pillow
+numpy
+glfw
